@@ -5,5 +5,4 @@ from onepage.views import *
 urlpatterns = [
     path('', index),
 
-
 ]
